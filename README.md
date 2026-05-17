@@ -12,6 +12,6 @@ An interactive and responsive interface for generating secure, random passwords.
 - **Responsive Design:** Fully optimized for both desktop and mobile devices.
 
 # Demo
-Live Demo: 
+Live Demo: https://mpayro03.github.io/Mini-project_Dynamic-Password-Generator/index.html
 
 *Developed by Melissa Payró*
